@@ -52,7 +52,7 @@ Pipeline Flow:
 2. Silver transformation notebook executes after Bronze completion
 3. Gold modelling notebook executes after Silver completion
 
-![Fabric Pipeline](fabric_pipeline_overview.png)
+![Fabric Pipeline](fabric_pipeline_overview.PNG)
 
 ---
 
@@ -147,7 +147,7 @@ Return-related analysis was integrated into the sales model to support consolida
 # Power BI Dashboard
 
 The reporting layer was developed in Power BI using the Gold Layer tables from the Lakehouse.
-![Data Model](PowerBi_data_model.png)
+![Data Model](PowerBi_data_model.PNG)
 
 
 ## Dashboard Pages
@@ -173,25 +173,25 @@ The reporting layer was developed in Power BI using the Gold Layer tables from t
 
 ## Executive Overview
 
-![Overview Dashboard](Overview_dashboard.png)
+![Overview Dashboard](Overview_dashboard.PNG)
 
 ---
 
 ## Sales Performance
 
-![Sales Dashboard](sales_dashboard.png)
+![Sales Dashboard](sales_dashboard.PNG)
 
 ---
 
 ## Returns Analysis
 
-![Inventory Dashboard](Returns_dashboard.png)
+![Inventory Dashboard](Returns_dashboard.PNG)
 
 ---
 
 ## Inventory Analysis
 
-![Inventory Dashboard](Inventory_dashboard.png)
+![Inventory Dashboard](Inventory_dashboard.PNG)
 
 ---
 
@@ -238,6 +238,3 @@ Ojo Odoh
 
 Data Analyst | Data Engineer
 =======
-# mitchells-retail-data-platform
-End-to-end retail data engineering platform built with Microsoft Fabric using Medallion Architecture (Bronze, Silver, Gold), PySpark, Lakehouse, Data Pipelines, SQL, and Power BI.
->>>>>>> 87da1b82bdb505f21173910666db0b9356c4e13d
