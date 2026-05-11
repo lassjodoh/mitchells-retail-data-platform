@@ -52,7 +52,7 @@ Pipeline Flow:
 2. Silver transformation notebook executes after Bronze completion
 3. Gold modelling notebook executes after Silver completion
 
-![Fabric Pipeline](fabric_pipeline_overview.PNG)
+![Fabric Pipeline](Fabric_pipeline_overview.PNG)
 
 ---
 
