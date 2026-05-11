@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Mitchell’s Retail Data Platform
 
 ## Project Overview
@@ -236,3 +237,7 @@ mitchells-retail-data-platform/
 Ojo Odoh 
 
 Data Analyst | Data Engineer
+=======
+# mitchells-retail-data-platform
+End-to-end retail data engineering platform built with Microsoft Fabric using Medallion Architecture (Bronze, Silver, Gold), PySpark, Lakehouse, Data Pipelines, SQL, and Power BI.
+>>>>>>> 87da1b82bdb505f21173910666db0b9356c4e13d
